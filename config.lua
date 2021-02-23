@@ -34,7 +34,7 @@ cloud.settings = {
     },
     -- Need help? Contact us on discord
     server = "[Cloud]",
-    contact = "https://discord.gg/k7jPSV7",
+    contact = "https://yourwebsite",
 	date = os.date("%d").."-"..os.date("%m").."-"..os.date("%Y"),
 	time = os.date("%I:%M %p"),
 
